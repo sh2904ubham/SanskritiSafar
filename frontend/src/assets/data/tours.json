@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Akshardham Temple",
+    "city": "Delhi",
+    "address": "NH 24, Pramukh Swami Maharaj Marg, Pandav Nagar, New Delhi, Delhi, 110092",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dal Lake",
+    "city": "Srinagar",
+    "address": "Somewhere in Srinagar",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Solang Valley",
+    "city": "Manali",
+    "address": "Somewhere in Manali",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kashi Vishawanath Temple",
+    "city": "Varanasi",
+    "address": "Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Arambol Beach",
+    "city": "Goa",
+    "address": "Somewhere in North Goa",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  }
+
+
+]
